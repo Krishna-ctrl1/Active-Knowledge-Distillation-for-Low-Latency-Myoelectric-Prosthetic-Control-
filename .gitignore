@@ -16,3 +16,9 @@ __pycache__/
 # IDEs
 .vscode/
 .idea/
+
+# Large Data Files (Explicitly Excluded)
+DB5_Master_Grasp_Dataset.csv
+*.mat
+*.pth
+*.csv
