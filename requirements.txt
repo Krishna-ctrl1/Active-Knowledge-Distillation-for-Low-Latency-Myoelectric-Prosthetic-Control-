@@ -1,0 +1,17 @@
+# Simulation & Physics Engine
+pybullet
+
+# Data Processing & Math
+numpy
+pandas
+scipy
+
+# Machine Learning & Neural Networks
+torch
+torchvision
+scikit-learn
+
+# Computer Vision (For future OAK-D / RGB-D integration)
+opencv-python
+
+shap
